@@ -1,0 +1,37 @@
+.navbar-nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: #ad7fb6;
+    margin-left: 20px;
+    margin-right: 5px;
+}
+.nav-link{
+    margin-left: 200px;
+    margin-right: 180px;
+    color: white;
+    font-size: 30px;
+}
+.App{
+    background-Image:linear-gradient(lightblue,violet,skyblue);
+    padding-bottom: 380px;
+}
+.formmodule{
+    text-align: center;
+}
+.table table-bordered{
+    margin-top: 60px;
+}
+.addstudent{
+    margin-top: 30px;
+    padding: 20px;
+    background-color: rgb(130, 149, 130);
+    border: 3px solid red;
+    border-radius: 15px;
+}
+
+body{
+    background: linear-gradient(to top, rgb(91, 105, 105), rgb(125, 125, 225), rgb(100, 187, 215));
+    height: 100vh;
+    padding-bottom: 380px;
+
+}
